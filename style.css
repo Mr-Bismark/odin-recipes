@@ -2,6 +2,7 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(202, 177, 177, 0.205);
 }
 
 .container{
@@ -16,7 +17,22 @@ body{
     padding: 10px;
     margin: 5px auto;
     font-size: 1.1em;
-    background-color: rgba(182, 47, 47, 0.285);
+    background-color: gold;
     text-decoration: none;
     text-align: center;
+}
+
+.recipe-container{
+    box-sizing: border-box;
+    width: 620px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.home{
+    background-color: gold;
+    padding: 10px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 1.1em;
 }
