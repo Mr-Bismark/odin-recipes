@@ -1,0 +1,22 @@
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    padding: 5px;
+    text-align: center;
+}
+.recipe-link{
+    box-sizing: border-box;
+    display: block;
+    line-height: 1.5em;
+    width: 300px;
+    padding: 10px;
+    margin: 5px auto;
+    font-size: 1.1em;
+    background-color: rgba(182, 47, 47, 0.285);
+    text-decoration: none;
+    text-align: center;
+}
